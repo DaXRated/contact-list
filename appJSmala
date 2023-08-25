@@ -1,0 +1,70 @@
+
+
+//const listaContactos = ["Alejandro Castanio", "Alicia Aranda", "Wilmer Chacon", "Rafael Paz"]
+/*var contact = [
+    {
+        id: prompt("DNI: "),
+        nombre: prompt("Nombre: "),
+        apellido: prompt("Apellido: "),
+        telefono: prompt("Telefono: "),
+        ciudad: prompt("Ciudad: "),
+        direccion: prompt("Direccion: "),
+    }
+]*/
+
+var i = prompt("Que sea hacer? 1. Agregar, 2. Borrar, 3. Actualizar");
+
+if (i=1){
+    alert("sisirve")
+var addContact = [
+     {
+    
+    id: prompt("DNI: "),
+    nombre: prompt("Nombre: "),
+    apellido: prompt("Apellido: "),
+    telefono: prompt("Telefono: "),
+    ciudad: prompt("Ciudad: "),
+    direccion: prompt("Direccion: "),
+        
+
+
+    
+    
+    /*const newContact =[
+        {
+        id : id?,
+        nombre: nombre,
+        apellido: apellido,
+        telefono: telefono,
+        ciudad: ciudad,
+        direccion: direccion,
+        }
+    ]*/
+   }
+                ]
+     }
+     console.log(addContact)
+
+    
+
+/*if (i=2){
+    const delContact = (id, nombre, apellido, telefono, ciudad, direccion) =>{
+        const delContact ={
+            id: id,
+            nombre: nombre,
+            apellido: apellido,
+            telefono: telefono,
+            ciudad: ciudad,
+            direccion: direccion,*/
+
+
+    //listaContactos.splice(2,0,contacto)
+    //listaContactos.sort()
+
+
+
+//const deleteContact = (contacto) =>{
+
+
+
+//console.log(listaContactos);
